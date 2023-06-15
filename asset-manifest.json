@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-admin/static/css/main.def30527.css",
+    "main.js": "/react-admin/static/js/main.b055797f.js",
+    "index.html": "/react-admin/index.html",
+    "main.def30527.css.map": "/react-admin/static/css/main.def30527.css.map",
+    "main.b055797f.js.map": "/react-admin/static/js/main.b055797f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.def30527.css",
+    "static/js/main.b055797f.js"
+  ]
+}
