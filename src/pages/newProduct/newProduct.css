@@ -1,0 +1,53 @@
+.newProduct{
+    flex:4;
+    padding: 0 100px;
+}
+
+
+.newProductForm{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+
+.newProductItem{
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.newProductItem>label {
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(143, 143, 143);
+}
+
+.newProductItem>input:not([type=file]){
+    height: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+
+
+
+.newProductSelect{
+    height: 40px;
+    border-radius: 5px;
+}
+
+.newProductButton{
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    background-color: darkblue;
+    color:white;
+    margin-top: 30px;
+    padding: 7px 10px;
+    font-weight: 600;
+}
